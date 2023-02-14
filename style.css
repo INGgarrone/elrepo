@@ -1,0 +1,54 @@
+.h1 {color:black;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 20px;
+}
+
+.imagen img {
+    width: 200px;
+    border-width: 5px;
+    border-color: aqua;
+    border-style: outset;
+    float:right;
+    margin-left: 15px;
+    margin-right: 60px;
+}
+
+.rectangulo {
+    margin: 5px;
+    background-color: blue;
+    font-size: 20px;
+}
+
+.rectangulo2{
+    padding: 0px;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: normal;
+    text-align: justify;
+}
+
+.Consulta { 
+    padding: 0px;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: normal;
+    display: flex;
+    justify-content: center;
+    background-color: greenyellow;
+    
+ }
+
+.Botones {
+    display: flex;
+    justify-content: center;
+}
+
+button { 
+    height: 50px;
+    width: 50px;
+    font-size: 30px;
+    background: yellowgreen;
+   
+}
